@@ -1,3 +1,15 @@
 body {
   font-size: 100px;
 }
+
+#tombol {
+  height: 50px;
+  width: 200px;
+  font-size: 20px;
+  background-image: url("https://i.imgur.com/ljIwRow.jpeg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: blue;
+  border: solid;<
+}
