@@ -1,4 +1,5 @@
-function cihuy(){
-  document.getElementById("woilah").innerHTML = "Goodboy AWOKAAEKWKK"
+function cihuy() {
+  const ganti = document.querySelector("#woilah");
+  ganti.innerHTML = "Goodboy AWOKAAEKAKWO, besok senin jir :("
 }
 
