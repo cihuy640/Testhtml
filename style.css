@@ -1,5 +1,15 @@
 body {
-  font-size: 100px;
+  font-size: 50px;
+  text-align: center;
+  background-image: url("https://i.imgur.com/JfffaBg.jpeg");
+  background-size: 500px;
+  background-position: center;
+}
+
+#woilah {
+  background-color: orange;
+  border: solid 5px red;
+  border-radius: 10px;
 }
 
 #tombol {
@@ -11,5 +21,6 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   color: blue;
-  border: solid;<
+  border: solid;
+  border-radius: 20px;;
 }
