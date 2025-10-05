@@ -10,6 +10,7 @@ body {
   background-color: rgb(255, 165, 0, 0.5);
   border: solid 5px red;
   border-radius: 10px;
+  overflow: auto;
 }
 
 #tombol {
